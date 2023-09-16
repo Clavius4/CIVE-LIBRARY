@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".HomeActivity">
+
+    <ImageView
+        android:id="@+id/udomLogo"
+        android:layout_width="93dp"
+        android:layout_height="93dp"
+        android:layout_marginStart="10sp"
+        android:background="@drawable/download" />
+
+    <TextView
+        android:id="@+id/tittle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CIVE LIBRARY"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/udomLogo"
+        android:textColor="#434D94"
+        android:textSize="30sp"
+        android:layout_marginStart="28sp"
+        android:layout_marginTop="20sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/relative1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="match_parent"
+                android:layout_height="300sp"
+                android:background="@drawable/today"
+                android:scaleType="fitXY"
+                android:layout_marginTop="150sp"/>
+
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="match_parent"
+                android:layout_height="231dp"
+                android:layout_below="@id/img1"
+                android:layout_marginTop="50sp"
+                android:background="@drawable/books"
+                android:scaleType="fitXY" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="32dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginEnd="32dp"
+                    android:background="@drawable/milk_background"
+                    android:orientation="vertical"
+                    android:padding="32sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="User name"
+                        android:textColor="#E98C6B"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/edtloginusername"
+                        android:layout_width="match_parent"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="15sp"
+                        android:background="@drawable/orage_color"
+                        android:ems="10"
+                        android:hint="Enter here"
+                        android:inputType="textPersonName"
+                        android:padding="16sp"
+                        android:textColor="#ffffff"
+                        android:textColorHint="#ffffff"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15sp"
+                        android:text="Password"
+                        android:textColor="#E98C6B"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/edtLoginPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="15sp"
+                        android:background="@drawable/orage_color"
+                        android:ems="10"
+                        android:hint="Enter here"
+                        android:inputType="textPassword"
+                        android:padding="16sp"
+                        android:textColor="#ffffff"
+                        android:textColorHint="#ffffff"
+                        android:textSize="16sp" />
+
+                    <Button
+                        android:id="@+id/btnlogin"
+                        style="@android:style/Widget.Button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15sp"
+                        android:background="@drawable/dark_blue"
+                        android:text="LOGIN"
+                        android:textColor="#ffffff"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/btnsignup"
+                        style="@android:style/Widget.Button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15sp"
+                        android:background="@drawable/dark_blue"
+                        android:text="SIGN UP"
+                        android:textColor="#ffffff"
+                        android:textSize="20sp" />
+
+
+                </LinearLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

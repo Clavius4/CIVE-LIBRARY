@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <RelativeLayout
+        android:id="@+id/relative1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/udomLogo"
+            android:layout_width="93dp"
+            android:layout_height="93dp"
+            android:layout_marginStart="10sp"
+            android:background="@drawable/download" />
+
+        <TextView
+            android:id="@+id/tittle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REGISTER"
+            android:ems="7"
+            android:textAlignment="center"
+            android:layout_toRightOf="@+id/udomLogo"
+            android:textColor="#434D94"
+            android:textSize="30sp"
+            android:layout_marginStart="28sp"
+            android:layout_marginTop="20sp"/>
+
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="match_parent"
+            android:layout_height="300sp"
+            android:background="@drawable/today"
+            android:scaleType="fitXY"
+            android:layout_marginTop="150sp"/>
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="32dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginEnd="32dp"
+                    android:background="@drawable/milk_background"
+                    android:orientation="vertical"
+                    android:padding="32sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <LinearLayout
+                        android:id="@+id/form"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+
+                        <EditText
+                            android:id="@+id/edtFname"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_person_24"
+                            android:ems="10"
+                            android:hint="First Name"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+                        <EditText
+                            android:id="@+id/edtMname"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_person_24"
+                            android:ems="10"
+                            android:hint="Second Name"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtLname"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_person_24"
+                            android:ems="10"
+                            android:hint="Last Name"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtRegNo"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_person_24"
+                            android:ems="10"
+                            android:hint="Registration Number"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+                        <EditText
+                            android:id="@+id/edtProgram"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_person_24"
+                            android:ems="10"
+                            android:hint="Programe"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtEmail"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@android:drawable/ic_dialog_email"
+                            android:ems="10"
+                            android:hint="E-Mail"
+                            android:inputType="textEmailAddress"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtPhone"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@android:drawable/stat_sys_phone_call"
+                            android:ems="10"
+                            android:hint="Phone Number"
+                            android:inputType="textPersonName"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtCreatepassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_lock_24"
+                            android:ems="10"
+                            android:hint="Password"
+                            android:inputType="textPassword"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+
+                        <EditText
+                            android:id="@+id/edtConfirmpassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="50sp"
+                            android:layout_marginTop="15sp"
+                            android:background="@drawable/orage_color"
+                            android:drawableStart="@drawable/ic_baseline_lock_24"
+                            android:ems="10"
+                            android:hint="Confirm Password"
+                            android:inputType="textPassword"
+                            android:padding="16sp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff"
+                            android:textSize="16sp" />
+
+                        <RelativeLayout
+                            android:id="@+id/btns"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:id="@+id/btnBack"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="20sp"
+                                android:background="@drawable/dark_blue"
+                                android:padding="10sp"
+                                android:text="BACK"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/btnRegister"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="20sp"
+                                android:layout_marginTop="20sp"
+                                android:layout_toRightOf="@+id/btnBack"
+                                android:background="@drawable/dark_blue"
+                                android:padding="10sp"
+                                android:text="REGISTER"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white" />
+
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </ScrollView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

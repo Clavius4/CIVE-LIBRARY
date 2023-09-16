@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/bottom_card.xml" value="0.15" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/choco_btn.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/dark_blue.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/ic_book.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/ic_menu.xml" value="0.1315" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/ic_user.xml" value="0.1425" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/light_blue_button.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/milk_background.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/nav_color.xml" value="0.1425" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/orage_button.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/orage_color.xml" value="0.125" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/search_bar.xml" value="0.1315" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/top_bar.xml" value="0.1315" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/drawable/top_to_nav.xml" value="0.1" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/activity_books_fragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/activity_home.xml" value="0.165" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/activity_sign_up.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/fragment_books.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/fragment_home.xml" value="0.165" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/fragment_notification.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/fragment_setting.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/layout/layout_navigation_header.xml" value="0.17552083333333332" />
+        <entry key="..\:/CIVELIBRARY/app/src/main/res/menu/navigation.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/dark_blue.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/fragment_top_bar.xml" value="0.1005" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_add_circle.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1005" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/drawable/orage_color.xml" value="0.1" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/activity_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/activity_sign_up.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_books.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_help.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_notification.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/fragment_setting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/item_add.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/item_email.xml" value="0.17447916666666666" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/item_image.xml" value="0.17552083333333332" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/item_phone.xml" value="0.17447916666666666" />
+        <entry key="..\:/Cive library updates/abandoned pro/CIVELIBRARY/app/src/main/res/layout/item_program.xml" value="0.17552083333333332" />
+        <entry key="..\:/IPT/Final Cive Library/CIVELIBRARY/app/src/main/res/layout/activity_books.xml" value="0.17552083333333332" />
+        <entry key="..\:/IPT/Final Cive Library/CIVELIBRARY/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/IPT/Final Cive Library/CIVELIBRARY/app/src/main/res/layout/activity_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/IPT/Final Cive Library/CIVELIBRARY/app/src/main/res/layout/activity_website.xml" value="0.17552083333333332" />
+        <entry key="..\:/IPT/Final Cive Library/CIVELIBRARY/app/src/main/res/layout/fragment_about.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/dark_blue.xml" value="0.1" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/hgfhh.xml" value="0.1155" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_email.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_phone.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_read_more.xml" value="0.1" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_refresh.xml" value="0.12" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_wave_.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_wave__4_.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_wave__7_.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/ic_waves.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/drawable/orage_color.xml" value="0.1355" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_books.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_pdf.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_sign_up.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/activity_website.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_about.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_books.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_borrow.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_help.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_more.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_more_fragmet.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_notification.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/fragment_setting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_borrow.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_email.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_email_help.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_header_help.xml" value="0.17447916666666666" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_hello.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_image.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_phone.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_phone_help.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_program.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/item_website.xml" value="0.17447916666666666" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/layout_navigation_header.xml" value="0.17552083333333332" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/row_model.xml" value="0.25" />
+        <entry key="..\:/Updat/CIVELIBRARY/app/src/main/res/layout/view_model.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/GODFREY MCHARO/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/GODFREY MCHARO/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/GODFREY MCHARO/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/signup.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/HAMIC/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/HAMIC/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/HAMIC/AndroidStudioProjects/CIVELIBRARY/app/src/main/res/layout/layout_navigation_header.xml" value="0.209375" />
+        <entry key="..\:/angel/CIVELIBRARY/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

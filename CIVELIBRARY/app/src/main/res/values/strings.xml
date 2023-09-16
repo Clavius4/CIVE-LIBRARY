@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CIVE LIBRARY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="books">Books</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log out</string>
+    <string name="welcome_home">WELCOME HOME</string>
+    <string name="my_profile">My Profile</string>
+    <string name="display_name_here">display name here...</string>
+    <string name="image">TODO</string>
+    <string name="backButton">TODO</string>
+    <string name="onpdfbattonback">onpdfBattonBack</string>
+    <string name="pdf_view_app">PDF View App</string>
+    <string name="onpdfbattonreflesh">onpdfbattonReflesh</string>
+    <string name="pdf_viewer_app">PDF Viewer App</string>
+    <string name="pdf_document">PDF document</string>
+    <string name="category">Category..........</string>
+    <string name="aploaded_date">Uploaded Date</string>
+    <string name="file_name">File Name........</string>
+    <string name="book_id">Book ID</string>
+    <string name="my_borrowing">My Borrowing</string>
+    <string name="maximum_number_of_borrowing_in_3_books">Only 3 books to be borrowed</string>
+    <string name="book_tittle">Book_tittle</string>
+    <string name="Category">Category</string>
+    <string name="borrowed_date">Borrowed Date</string>
+    <string name="dead_line">Dead line</string>
+    <string name="discription">For more information about our application and all its resources we would contact our user using the contact information provided to us by the user upon registration.</string>
+    <string name="disc">UDOM:Embracing Knowledge</string>
+</resources>

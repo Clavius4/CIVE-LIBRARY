@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.civeipt.civelibrary.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.civeipt.civelibrary.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/booksFragment"
+        android:name="com.civeipt.civelibrary.BooksFragment"
+        android:label="fragment_books"
+        tools:layout="@layout/fragment_books" />
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="com.civeipt.civelibrary.Borrow"
+        android:label="fragment_notification"
+        tools:layout="@layout/fragment_borrow" />
+    <activity
+        android:id="@+id/websiteActivity"
+        android:name="com.civeipt.civelibrary.WebsiteActivity"
+        android:label="activity_website"
+        tools:layout="@layout/activity_website" />
+    <fragment
+        android:id="@+id/helpFragment"
+        android:name="com.civeipt.civelibrary.HelpFragment"
+        android:label="fragment_help"
+        tools:layout="@layout/fragment_help" />
+</navigation>

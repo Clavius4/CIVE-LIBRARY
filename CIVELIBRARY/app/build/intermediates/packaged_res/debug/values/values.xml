@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Category">Category</string>
+    <string name="aploaded_date">Uploaded Date</string>
+    <string name="app_name">CIVE LIBRARY</string>
+    <string name="backButton">TODO</string>
+    <string name="book_id">Book ID</string>
+    <string name="book_tittle">Book_tittle</string>
+    <string name="books">Books</string>
+    <string name="borrowed_date">Borrowed Date</string>
+    <string name="category">Category..........</string>
+    <string name="dead_line">Dead line</string>
+    <string name="disc">UDOM:Embracing Knowledge</string>
+    <string name="discription">For more information about our application and all its resources we would contact our user using the contact information provided to us by the user upon registration.</string>
+    <string name="display_name_here">display name here...</string>
+    <string name="file_name">File Name........</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="image">TODO</string>
+    <string name="log_out">Log out</string>
+    <string name="maximum_number_of_borrowing_in_3_books">Only 3 books to be borrowed</string>
+    <string name="my_borrowing">My Borrowing</string>
+    <string name="my_profile">My Profile</string>
+    <string name="notification">Notification</string>
+    <string name="onpdfbattonback">onpdfBattonBack</string>
+    <string name="onpdfbattonreflesh">onpdfbattonReflesh</string>
+    <string name="pdf_document">PDF document</string>
+    <string name="pdf_view_app">PDF View App</string>
+    <string name="pdf_viewer_app">PDF Viewer App</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="welcome_home">WELCOME HOME</string>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.CIVELIBRARY" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

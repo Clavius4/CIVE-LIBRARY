@@ -1,0 +1,131 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.civeipt.civelibrary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:6:5-67
+11-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:7:5-81
+12-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:8:5-80
+13-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:8:22-77
+14
+15    <application
+15-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:10:5-45:19
+16        android:allowBackup="true"
+16-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:11:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\7c39e07860e651dde17cb56d96162763\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:12:9-65
+19        android:debuggable="true"
+20        android:fullBackupContent="@xml/backup_rules"
+20-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:13:9-54
+21        android:icon="@drawable/download"
+21-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:14:9-42
+22        android:label="@string/app_name"
+22-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:15:9-41
+23        android:roundIcon="@drawable/download"
+23-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:16:9-47
+24        android:supportsRtl="true"
+24-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:17:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.CIVELIBRARY"
+26-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:18:9-49
+27        android:usesCleartextTraffic="true" >
+27-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:19:9-44
+28        <activity
+28-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.civeipt.civelibrary.BooksActivity"
+29-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:22:13-42
+30            android:exported="false" />
+30-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.civeipt.civelibrary.ActivityPDF"
+32-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:25:13-40
+33            android:exported="false" />
+33-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:27:9-29:40
+35            android:name="com.civeipt.civelibrary.WebsiteActivity"
+35-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:28:13-44
+36            android:exported="false" />
+36-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:29:13-37
+37        <activity
+37-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:30:9-32:40
+38            android:name="com.civeipt.civelibrary.HomeActivity"
+38-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:31:13-41
+39            android:exported="false" />
+39-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:32:13-37
+40        <activity
+40-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:33:9-35:40
+41            android:name="com.civeipt.civelibrary.SignUpActivity"
+41-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:34:13-43
+42            android:exported="false" />
+42-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:35:13-37
+43        <activity
+43-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:36:9-44:20
+44            android:name="com.civeipt.civelibrary.MainActivity"
+44-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:37:13-41
+45            android:exported="true" >
+45-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:38:13-36
+46            <intent-filter>
+46-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:39:13-43:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:40:17-69
+47-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:40:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:42:17-77
+49-->D:\IPT\Final Cive Library\CIVELIBRARY\app\src\main\AndroidManifest.xml:42:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.civeipt.civelibrary.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\2d733dd054ddb2ffe05517f4022c7e48\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\e3c18c8ade8a19f7c5aa200ca95189f3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\e3c18c8ade8a19f7c5aa200ca95189f3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\e3c18c8ade8a19f7c5aa200ca95189f3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+63        </provider>
+64
+65        <uses-library
+65-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+66            android:name="androidx.window.extensions"
+66-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+67            android:required="false" />
+67-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+68        <uses-library
+68-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+69            android:name="androidx.window.sidecar"
+69-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+70            android:required="false" />
+70-->[androidx.window:window:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\3d9a4fcf03c6b0677222379917378e4b\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+71    </application>
+72
+73</manifest>

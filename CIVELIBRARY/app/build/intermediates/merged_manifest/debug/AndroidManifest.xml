@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.civeipt.civelibrary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/download"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/download"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.CIVELIBRARY"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.civeipt.civelibrary.BooksActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.civeipt.civelibrary.ActivityPDF"
+            android:exported="false" />
+        <activity
+            android:name="com.civeipt.civelibrary.WebsiteActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.civeipt.civelibrary.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.civeipt.civelibrary.SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.civeipt.civelibrary.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.civeipt.civelibrary.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+    </application>
+
+</manifest>

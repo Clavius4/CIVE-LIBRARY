@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape3.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape3.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_oraimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/oraimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_add.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_logout.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/logout.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_image.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_started.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/started.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_download.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/download.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_email.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_home.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/home.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_gimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/gimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape2.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape2.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_search_bar.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/search_bar.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_fragment_about.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_wave_.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_wave_.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_phone.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_view_model.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/view_model.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_imgq.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/imgq.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_orangeimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/orangeimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/navigation_main.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/navigation/main.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_orngimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/orngimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_fragment_top_bar.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/fragment_top_bar.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_borrow.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_borrow.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_sign_up.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_orimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/orimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_books.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/books.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_milk_background.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/milk_background.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_home.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_about.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/about.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_home.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_book.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_person.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_dark_blue.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/dark_blue.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_background.jpg.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/background.jpg"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_refresh.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_today.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/today.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.civeipt.civelibrary.app-pngs-40:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape6.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape6.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_nhelp.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/nhelp.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_google.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/google.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_fragment_books.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/fragment_books.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_email.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_email.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_email_help.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_email_help.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_header_help.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_header_help.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_books.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_books.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_top_to_nav.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/top_to_nav.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_user.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/user.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_notification.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/notification.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_website.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_website.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_phone_help.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_phone_help.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_glimg.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/glimg.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_read_more.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_read_more.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_pdf_logo.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/pdf_logo.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_pdf.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_pdf.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_light_blue_button.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/light_blue_button.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_phone.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_phone.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_fragment_profile.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_wave__7_.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_wave__7_.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_menu.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_setting.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/setting.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_nav_color.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/nav_color.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_program.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/program.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape5.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape5.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape1.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape1.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_bottom_card.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/bottom_card.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_website.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_website.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_settings.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_item_program.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/item_program.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_fragment_home.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_user.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_shape4.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/shape4.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_top_bar.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/top_bar.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_images.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/images.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_placeholder.jpg.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/placeholder.jpg"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_row_model.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/row_model.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_orage_color.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/orage_color.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_activity_profile.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/layout_fragment_help.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable_ic_notifications.xml.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_book.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/book.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/drawable-v24_software.png.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/drawable-v24/software.png"
+    },
+    {
+        "merged": "com.civeipt.civelibrary.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.civeipt.civelibrary.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
