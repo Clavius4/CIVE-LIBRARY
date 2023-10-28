@@ -18,7 +18,7 @@ Welcome to the CIVE LIBRARY Mobile App repository! This Android application proj
 
 To use the CIVE LIBRARY Mobile App:
 
-1. [Download the APK file](#) from our official source.
+1. [Download the APK file](https://github.com/Clavius4/CIVE-LIBRARY/blob/master/CIVELIBRARY/app/build/outputs/apk/debug/app-debug.apk) from our official source.
 2. Enable installations from unknown sources on your Android device.
 3. Install the app and follow the setup instructions.
 
